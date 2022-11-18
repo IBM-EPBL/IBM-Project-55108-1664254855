@@ -4,9 +4,9 @@ Domain : Artifical Intelligence
 
 Team ID: PNT2022TMID49109
 
-Team Lead: Manjuladevi T
+Team Lead: Mohammed afzal
 
-Team Member: Aananthi, Hemalatha, Madhumitha
+Team Member: Sambath kumar, Sarath vishwa, Sriram, Nanthini, Bakya lakshmi
 
 Industry Mentor Name: Sri Tulasi
 
